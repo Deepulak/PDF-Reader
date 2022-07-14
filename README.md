@@ -48,8 +48,4 @@ The task can be simply divided into 2 steps:
 
 - Submit a Pull request!
  
- 
-## Video link: 
-[<img src=https://i.ytimg.com/vi/J-o99pzbBJk/sddefault.jpg height=400 width=350>](https://www.youtube.com/watch?v=J-o99pzbBJk)
 
-[Indian Pythonista](https://youtube.com/IndianPythonista)
